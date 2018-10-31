@@ -16,4 +16,4 @@ class ContactUsLocators(object):
     REQUIRED_ERROR_MESSAGE = (By.XPATH, "//*[contains(text(), 'The field is required.')]")
     THANKS_ALERT = (By.XPATH, "//*[contains(text(), 'Thank you for your message. It has been sent.')]")
     FIELDS_ERROR_ALERT = (By.XPATH, "//*[contains(text(), 'One or more fields have an error. Please check and try again.')]")
-    #INVALID_EMAIL_FIELD_ERROR = (By.XPATH, "//*[@id='wpcf7-f173-p11-o1']/form/span[2]/span" "//*[@id='wpcf7-f173-p11-o1']/form/span[2]/span")
+    
