@@ -17,7 +17,7 @@ There are the UI tests for Ip Ninja: Contact Us form in this repository
 The following steps should get you set up for running UI tests locally on your machine:
 
 1. Clone this repository to your local machine
-2. Open terminal or cmd and navigate to the /iPNinja/tests folder
+2. Open terminal or cmd and navigate to the /Selenium-UI-test/tests folder
 3. Run the UI tests using the command [python automatedTests.py]
 
 
